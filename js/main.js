@@ -17,7 +17,7 @@ record.onresult = function (evt) {
   console.log(commands);
   if (commands == "assalomu alaykum") {
     prompt("Vaalaykum assalom Assalomu alaykum");
-  } if (commands == "qandaysiz") {
+  } if (commands == "qalaysiz") {
     prompt("Yaxshi raxmat o'zingizchi?");
   } if (commands == "nima gap") {
     prompt("Tinchlik o'zingizdachi?");
