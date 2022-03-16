@@ -1,0 +1,23 @@
+body{
+  background-color: gray;
+}
+
+.title{
+  margin-top: 300px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.btn{
+  display: block;
+  font-size: 18px;
+  margin: 0 auto;
+  padding: 5px 40px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  opacity: 0.3;
+  color: #000;
+}
